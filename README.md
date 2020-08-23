@@ -3,8 +3,8 @@
 Canvas, it's a part of HTML5 and allows for dynamic, scriptable rendering of 2D shapes and bitmap images. It's quite interesting to play with it. However, this is a series of canvas projects. I will update and upload it here frequently. 
 
 Here is the list: \
-**[Canvas Bubble](https://rajondey.github.io/canvas/canvas-bubble)**\
-**[Canvas Gravity](https://rajondey.github.io/canvas/canvas-gravity/)**\
+* **[Canvas Bubble](https://rajondey.github.io/canvas/canvas-bubble)**\
+* **[Canvas Gravity](https://rajondey.github.io/canvas/canvas-gravity/)**
 
 ## Purpose
 * Learning HTML5 Canvas, also practicing JS
